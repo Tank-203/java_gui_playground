@@ -25,7 +25,7 @@ public class TeamPanel extends JPanel {
             this.add(member);
         }
 
-        this.setPreferredSize(new Dimension(500, 250));
+        this.setPreferredSize(new Dimension(1920, 1080));
         this.setBackground(Color.LIGHT_GRAY);
 
 
